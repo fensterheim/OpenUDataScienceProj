@@ -1,2 +1,2 @@
 # OpenUDataScienceProj
-Yossi and Daniels DataScience project at openU
+Joseph and Daniels DataScience project at openU
